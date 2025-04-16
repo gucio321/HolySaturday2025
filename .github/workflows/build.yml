@@ -24,6 +24,10 @@ jobs:
         export PATH=/usr/local/bin:$PATH
     - name: Generate auto-generated code
       run: bard make
+    - name: copy results
+      run: |
+        cp output/songbook.* .
+        mv songbook.html index.html
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
