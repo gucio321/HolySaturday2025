@@ -17,6 +17,7 @@ jobs:
       run: |
         mkdir -p /usr/local/bin
         wget -O /usr/local/bin/bard https://github.com/vojtechkral/bard/releases/latest/download/bard
+        chmod 755 /usr/local/bin/bard
         export PATH=/usr/local/bin:$PATH
     - name: Generate auto-generated code
       run: bard make
