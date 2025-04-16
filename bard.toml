@@ -1,0 +1,27 @@
+version = 2
+
+songs = [
+    "nasz_bog.md",
+    "jezus_zwyciezyl.md",
+    "chrystus_zmartwychwstan_jest.md",
+    "baranki_mlode.md",
+    "kantyk_mojzesza.md",
+    "psalm_148.md",
+    "godzien.md",
+    "panie_gdy_tone.md",
+    "zaufalem_panu.md",
+]
+
+notation = "english"
+
+[[output]]
+file = "songbook.pdf"
+
+[[output]]
+file = "songbook.html"
+
+[book]
+title = "Wielka Sobota 2025"
+subtitle = "Adoracja"
+chorus_label = "Ref"
+title_note = "Lista pieśni na adorację w Wielką Sobotę ad 2025"
