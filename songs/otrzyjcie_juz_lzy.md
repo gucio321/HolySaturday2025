@@ -1,79 +1,51 @@
-Otrzyjcie już łzy płaczący, żale z serca wyzujcie.
+# Otrzyjcie już łzy, płączący!
 
+1. Otrzyjcie już łzy płaczący, żale z serca wyzujcie.
 Wszyscy w Chrystusa wierzący, weselcie się, radujcie.
+Bo zmartwychwstał samowładnie,
+Jak przepowiedział dokładnie. Alleluja.
 
-/Bo zmartwychwstał samowładnie,
-
-Jak przepowiedział dokładnie. Alleluja./bis
-
-Darmo kamień ciąży wielkiej Żydzi na grób wtoczyli,
-
+2. Darmo kamień ciąży wielkiej Żydzi na grób wtoczyli,
 Darmo dla pewności wszelkiej zbrojnej straży użyli:
+Na nic straż, pieczęć i skała
+Nad grobem Pana się zdała. Alleluja.
 
-/Na nic straż, pieczęć i skała
-
-Nad grobem Pana się zdała. Alleluja./bis
-
-Bóg wszechmocny, Bóg natury, wyższy nad wszystkie twory,
-
+3. Bóg wszechmocny, Bóg natury, wyższy nad wszystkie twory,
 Wstaje z grobu, kruszy mury nie zna żadnej zapory;
+Straż zdjęta trwogą upada
+I prawie sobą nie włada. Alleluja.
 
-/Straż zdjęta trwogą upada
-
-I prawie sobą nie włada. Alleluja./bis
-
-Salome i dwie Marye w grobie czasu rannego
-
+4. Salome i dwie Marye w grobie czasu rannego
 Słyszały głos: „Pan wasz żyje, tu tylko odzież Jego,
+Idźcie i to wszystko, coście
+Widziały, uczniom ogłoście”. Alleluja.
 
-/Idźcie i to wszystko, coście
-
-Widziały, uczniom ogłoście”. Alleluja./bis
-
-Niewiasty te się z nadziei widzenia Pana cieszą
-
+5. Niewiasty te się z nadziei widzenia Pana cieszą
 I zaraz do Galilei z nowiną słodką śpieszą,
+Oznajmują, co widziały,
+Co im mówił Anioł biały. Alleluja.
 
-/Oznajmują, co widziały,
-
-Co im mówił Anioł biały. Alleluja./bis
-
-Do Emaus dwaj uczniowie idący smutnie srodze,
-
+6. Do Emaus dwaj uczniowie idący smutnie srodze,
 Zatopieni z Nim w rozmowie, nie poznali Go w drodze,
+Aż gdy chleb im błogosławił
+I tak zdumionych zostawił. Alleluja.
 
-/Aż gdy chleb im błogosławił
-
-I tak zdumionych zostawił. Alleluja./bis
-
-Także Pan i Magdalenie żywy widzieć się daje,
-
+7. Także Pan i Magdalenie żywy widzieć się daje,
 Która słodkie to widzenie głośno wszędzie wyznaje:
+„Jezus zmartwychwstał prawdziwie,
+Który cierpiał był zelżywie”. Alleluja.
 
-/„Jezus zmartwychwstał prawdziwie,
-
-Który cierpiał był zelżywie”. Alleluja./bis
-
-Bądźmy przeto zapewnieni, że wiecznie nie zaśniemy
-
+8. Bądźmy przeto zapewnieni, że wiecznie nie zaśniemy
 W grobie, lecz kiedyś zbudzeni, także zmartwychwstaniemy,
+I że potem żyć bezpiecznie
+Od śmierci będziemy wiecznie. Alleluja.
 
-/I że potem żyć bezpiecznie
-
-Od śmierci będziemy wiecznie. Alleluja./bis
-
-Że Chrystus z pod mocy czarta plemię dobył Adama,
-
+9. Że Chrystus z pod mocy czarta plemię dobył Adama,
 Że przez Zbawcę nam otwarta stoi do nieba brama,
+Przez którą z otchłań ciemności
+Zawiódł rzesze do jasności. Alleluja.
 
-/Przez którą z otchłań ciemności
-
-Zawiódł rzesze do jasności. Alleluja./bis
-
-Jezu Chryste, dobry Panie! Pokornie Cię prosimy:
-
+10. Jezu Chryste, dobry Panie! Pokornie Cię prosimy:
 Niech przez Twoje zmartwychwstanie, gdy zmartwychwstaniemy i my,
-
-/Z wybranymi Twymi Ciebie,
-
-Wiecznie oglądamy w niebie. Alleluja!/bis[1], [3]
+Z wybranymi Twymi Ciebie,
+Wiecznie oglądamy w niebie. Alleluja!

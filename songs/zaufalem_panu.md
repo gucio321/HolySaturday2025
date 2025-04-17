@@ -1,5 +1,7 @@
 # Zaufałem Panu i już
 
+_**[dodatkowe]**_
+
 Zaufałem Panu i już
 Niczego nie muszę się lękać
 Zaufałem Panu i już
