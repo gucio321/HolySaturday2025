@@ -1,12 +1,19 @@
 version = 2
 
 songs = [
-    "nasz_bog.md",
+    "chlebie_najcichszy.md",
+    "niechaj_zstapi_duch_twoj.md",
     "jezus_zwyciezyl.md",
-    "chrystus_zmartwychwstan_jest.md",
     "baranki_mlode.md",
-    "kantyk_mojzesza.md",
+    "zmartwychwstal_pan.md",
     "psalm_148.md",
+    "chrystus_zmartwychwstan_jest.md",
+    "przychodzisz_panie.md",
+    "raduje_sie_dusza_ma.md",
+    "zwyciezca_smierci.md",
+
+    "nasz_bog.md",
+    "kantyk_mojzesza.md",
     "godzien.md",
     "panie_gdy_tone.md",
     "zaufalem_panu.md",

@@ -1,11 +1,13 @@
 # Psalm 148
 
+_[Na zwrotce podział na chóry]_
+
 > Alleluja, alleluja, alleluja, alleluja
 
-1. Niech zabrzmi Panu chwała w niebiosach
-Na wysokościach cześć niech oddadzą
-Wielbijcie Pana, duchy niebieskie
-Wielbijcie Pana, Jego zastępy
+1. Niech zabrzmi Panu chwała w niebiosach _[chłopaki]_
+Na wysokościach cześć niech oddadzą _[dziewczyny]_
+Wielbijcie Pana, duchy niebieskie _[chłopaki]_
+Wielbijcie Pana, Jego zastępy _[dziewczyny]_
 
 > Alleluja, alleluja, alleluja, alleluja
 
