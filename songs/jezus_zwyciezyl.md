@@ -13,10 +13,10 @@ Tylko Jezus jest Panem,
 Jezus jest Panem.
 On jest Panem ziemi tej.
 
-Alleluja! _[chłopaki]_
 Alleluja! _[dziewczyny]_
 Alleluja! _[chłopaki]_
 Alleluja! _[dziewczyny]_
+Alleluja! _[chłopaki]_
 Alleluj, Alleluja! _[wszyscy]_
 
 2. Jezus zmartwychwstał, to wykonało się!
