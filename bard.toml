@@ -5,6 +5,7 @@ songs = [
     "niechaj_zstapi_duch_twoj.md",
     "otrzyjcie_juz_lzy.md",
     "zmartwychwstal_pan.md",
+    "czytanie_maciek.md",
     "godzien.md",
     "chrystus_zmartwychwstan_jest.md",
     "jezus_zwyciezyl.md",
@@ -26,6 +27,7 @@ notation = "english"
 
 [[output]]
 file = "songbook.pdf"
+template = "pdf.hbs"
 
 [[output]]
 file = "songbook.html"
